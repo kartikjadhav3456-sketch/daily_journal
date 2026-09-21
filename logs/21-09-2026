@@ -1,1 +1,6 @@
-
+Today learned about for loop , while loop, do while loop ,Break statement ,continue statement..
+Explanation
+for loop is a range based loop and while loop is a conditional based loop ..
+In do while loop first code is always executed and then it will check the condition..
+Break statment is used to break the whole loop ...
+continue statement is used to skip the irritation and then it follow the code ..
