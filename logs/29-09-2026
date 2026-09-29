@@ -1,0 +1,22 @@
+Today I revised all previous topic of python .
+#For loop: Used to repeat a block of code for each item in a sequence.
+#While loop: Repeats code as long as a condition is True.
+#Break statement: Immediately stops the loop.
+for i in range(5):
+    if i == 3:
+        break
+    print(i)
+#Continue statement: Skips the current iteration and moves to the next one.
+for i in range(5):
+    if i == 3:
+        continue
+    print(i)
+#A list is a collection of multiple items stored in a single variable. Lists are ordered, changeable (mutable), and allow duplicate values.
+methods of list is same as method of tuples.
+1.append() → Adds an item at the end.
+2.insert() → Adds an item at a specific position.
+3.remove() → Removes a specific item.
+4.pop() → Removes an item by index.
+5.sort() → Sorts the list.
+
+
