@@ -1,0 +1,3 @@
+Today I made ATM interface code simpler compared to before.
+I added function blocks so that my code looked more cleaner.
+I created function blocks for depositing, withdrawing and checking balance.
