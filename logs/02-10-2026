@@ -1,0 +1,10 @@
+Today I leaarned abut Docstrings, Recursion , set in Python.
+Docstring  is a description written inside your code to explain what a function, class, or module does.
+why it is use ?
+They help you and other programmers understand what the code does without reading all the code.
+ Recursion = A function calling itself until a stopping condition is reached.
+Set = a collection of unique values.
+remember thinks in set is -
+1. No duplicate 
+2. No fix position
+3. Always use {} bracket .
