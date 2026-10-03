@@ -1,0 +1,20 @@
+Today I learned about logic Building vedio in Strivers A2Z DSA course .
+Dictionaries and its methods,for loop with else and Exception Handling in python.
+Dictionaries-A dictionary in Python is a way to store information as key-value pairs.
+Ex-student = {
+    "name": "Kartik",
+    "age": 20,
+}
+Here 
+"name" is a key, and "Rahul" is its value
+"age" is a key, and 20 is its value
+Methods of dictionaries are -
+1. keys()
+Returns all the keys.
+print(student.keys())
+2. values()
+Returns all the values.
+print(student.values())
+3. items()
+Returns both keys and values.
+and all others like - get(),update(), pop(),popitem(),clear(),copy(),
